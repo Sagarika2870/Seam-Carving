@@ -6,4 +6,7 @@ For this project I created a program that resizes an arbritary sized image using
 
 The minimal cost seam represents seams with lower energy and thus less important in the image. After finding the minimal cost seam, the path of the seam must be recovered and then removed from the image. The process is repeated until the image is resized as desired.  
 
+### Credit
+Michael Guerzhoy for the assignment
+Team Member: Eve
 
